@@ -2,11 +2,17 @@
 
 ### Summer 2021
 
-DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
+Freshman at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Introduction To Data Science
+- *Introduction To Data Science*
 
-- Precalculus Algebra/Trigonometry
+- *Pre-calculus Algebra/Trigonometry*
+
+|**2021 Summer Classes**|
+|-----------------------|
+|*Intro To Data Science*|
+|*Pre-calculus*         |
+
 
 **Hobbies:**
 
@@ -16,7 +22,9 @@ I am _passionate about_:
 
 - Outer Space
 
-- Dogs as shown in this website <https://www.floridapoly.edu>
+- Dogs 
+
+<https://www.floridapoly.edu>
 
 ***
 
