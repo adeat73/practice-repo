@@ -8,10 +8,9 @@ Freshman at [Florida Polytechnic University](https://www.floridapoly.edu) curren
 
 - *Pre-calculus Algebra/Trigonometry*
 
-|**2021 Summer Classes**|
-|-----------------------|
-|*Intro To Data Science*|
-|*Pre-calculus*         |
+- *Foundations to Academic Success*
+
+- *Introduction to Programming Using Python*
 
 
 **Hobbies:**
@@ -22,10 +21,10 @@ I am _passionate about_:
 
 - Outer Space
 
-- Dogs 
+- Music 
 
 <https://www.floridapoly.edu>
 
 ***
 
-> Last modified: 2021/07/11
+> Last modified: 2021/09/02
